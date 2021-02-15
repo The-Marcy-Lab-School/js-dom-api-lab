@@ -6,7 +6,7 @@ For this lab, you'll be recreating this simple [webpage](https://codepen.io/thuy
 
 You should use [this Code Pen](https://codepen.io/thuyanduong/pen/jOMogvY) to see the HTML and CSS that you will be re-creating using only JavaScript.  
 
-### Methods for you to use:
+### Methods you can use:
 
 * ❌  [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 * ✅  [Document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
