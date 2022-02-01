@@ -13,7 +13,7 @@ You should use [this Code Pen](https://codepen.io/thuyanduong/pen/jOMogvY) to se
 * ✅  [Node.appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 * ✅  [ParentNode.append](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
 * ✅  [Element.attributes](https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes)
-* ✅  [ElementCSSInlineStyle.style](https://developer.mozilla.org/en-US/docs/Web/API/ElementCSSInlineStyle/style)
+* ✅  [HTMLElement.style](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style)
 * ✅  Any other DOM API methods
 
 
