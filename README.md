@@ -11,7 +11,7 @@ You should use [this Code Pen](https://codepen.io/thuyanduong/pen/jOMogvY) to se
 * ❌  [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 * ✅  [Document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 * ✅  [Node.appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
-* ✅  [ParentNode.append](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
+* ✅  [Element.append](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
 * ✅  [Element.attributes](https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes)
 * ✅  [HTMLElement.style](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style)
 * ✅  Any other DOM API methods
